@@ -1,5 +1,5 @@
 # PAN-GP-DisconnectUser
-Disconnect user who connects to GP from multiple computer at a time
+Disconnect user who connects to GLobal Protect from multiple computers at a time
 
 Run this script against your current Firewall, please prepare below information:
 - Your Global Protect gateway name: Network > Global Protect > Gateway and mark down the name.
