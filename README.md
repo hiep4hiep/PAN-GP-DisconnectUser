@@ -8,6 +8,6 @@ Run this script against your current Firewall, please prepare below information:
 How to run it:
 - python3 pangp-disconnect.py
 
-Or you can hard coded the Firewall IP address, username, password and GP Gateway name, then set schedule to run this script periodically (e.g once every 15 minutes) to wipe all users who violate the policy.
+Or you can hard code the Firewall IP address, username, password and GP Gateway name, then set schedule to run this script periodically (e.g once every 15 minutes) to wipe all users who violate the policy.
 
 Enjoy.
